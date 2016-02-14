@@ -1,4 +1,4 @@
-**Funny Quotes**
+#Funny Quotes
 
 Random quotes I find funny.
 
